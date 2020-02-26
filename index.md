@@ -16,8 +16,6 @@ I'm also familiar with iOS development and Swift. Some of my iOS learning projec
 
 In my free time, I like to read books on software development and am currently learning to build a static site with [Hugo][3].
 
-***
-
 ## Skills
 
 ### Programming Languages
@@ -62,7 +60,6 @@ I've learn these in the past -->
 * **Git**
 * **Surround SCM**
 
-***
 
 ## Experience
 
@@ -80,8 +77,6 @@ Working as part of a team on the maintenance and development of a core business 
 * Completing tasks independently.
 * Estimating time & effort for tasks.
 * Effective communication with the team and onshore stakeholders.
-
-***
 
 ## Education
 
