@@ -1,91 +1,101 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jeet Parte's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jeet Parte
+Software Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+Mumbai, MH | +91 98199 21027 | jeetparte@gmail.com | [LinkedIn](https://www.linkedin.com/in/jeetparte/) | [GitHub](https://github.com/jeetparte)
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+I am a Junior Software Developer with 1+ years of professional experience in C#, object-oriented programming and SQL.  
 
-### Specialized in
+I'm also familiar with iOS development and Swift. Some of my iOS learning projects are on GitHub.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+In my free time, I like to read books on software development and am currently learning to build a static site with [Hugo][3].
 
+***
 
-### Research interests
+## Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Programming Languages
 
+<!-- 1 -->
+<!-- These are the languages I use everday at work: -->
+
+1. **C#**
+    * I spend a lot of my time here.
+    * Currently, my favorite object-oriented language.
+
+2. **SQL**
+    * While SQL is declarative, I have found that sometimes that abstraction breaks!
+
+3. **Oracle PL/SQL**
+    * A procedural wrapper over SQL is really convenient.
+    * One time, I had to insert a lot of records in the database. Using the Bulk SQL features, minimised context switching between the SQL and PL/SQL engines and this optimisation helped prevent out of memory errors!
+
+<!-- 2
+I've learn these in the past -->
+
+4. **Swift**
+    * I like Swift for it's concise yet expressive syntax. A stark contrast to the verbosity of Java.
+    * Protocol-oriented programming is an interesting paradigm. I would like to explore it further.
+5. **Java**
+    <!-- * Why do I think Java is verbose? Maybe it was, when I was first introduced to it many years ago during high school. -->
+    * This was my first programming language. I learnt it during high school.
+
+### Environments
+
+* **macOS**
+* **Windows**
+
+### IDEs
+
+* **Visual Studio**
+* **Xcode**
+* **Eclipse**
+
+### Version control
+
+* **Git**
+* **Surround SCM**
+
+***
+
+## Experience
+
+<!-- 1 -->
+`Feb 2019 - present`  
+__[Marsh & McLennan Companies][1]__  
+__Trainee Software Engineer__  
+
+*Responsibilities:*
+
+Working as part of a team on the maintenance and development of a core business application for Windows. This involves 
+* Implementing new changes.
+* Bug-fixing and debugging.
+* Learning from my seniors.
+* Completing tasks independently.
+* Estimating time & effort for tasks.
+* Effective communication with the team and onshore stakeholders.
+
+***
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+<!-- 1 -->
+`2014 - 2018`  
+__[Narsee Monjee Institute of Management Studies][2]__  
+__Bachelor of Technology__, Computer Engineering  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+<!-- 2 -->
+<!-- `2010 - 2014`  
+__Jamnabai Narsee School, Mumbai__  
+__High School, ICSE__   -->
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+[1]: http://www.mmc.com/
+[2]: https://nmims.edu
+[3]: http://gohugo.io
